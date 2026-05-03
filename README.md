@@ -1,10 +1,10 @@
-# EWMAC Trading Bot — ACM
+# EWMAC Trading Bot 
 
 > **Exponentially Weighted Moving Average Crossover** — A volatility-adjusted, systematic trend-following trading bot for MetaTrader 5, with a matching TradingView Pine Script indicator.
 > 
 ## Overview
 
-This repository contains the full source code for the **EWMAC algorithmic trading system** developed by [Amare Capital Management (Pty) Ltd]. The system runs a two-layer architecture:
+This repository contains the full source code for the **EWMAC algorithmic trading system** developed by Kabelo Junior Mosaka. The system runs a two-layer architecture:
 
 | Layer | Tool | Role |
 |-------|------|------|
@@ -337,7 +337,7 @@ To install: open TradingView → Pine Editor → paste the script → Add to cha
 
 ##  About
 
-Developed and maintained by **Kabelo Junior Mosaka** at [Amare Capital Management (Pty) Ltd]() — a South African proprietary trading firm combining systematic strategies with discretionary expertise.
+Developed and maintained by **Kabelo Junior Mosaka**, a prop firm trader combining systematic strategies with discretionary expertise.
 
 ---
 
